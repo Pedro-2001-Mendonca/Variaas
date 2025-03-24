@@ -1,0 +1,4 @@
+Este foi um aplicativo desenvolvido durante meu terceiro semestre no curso de Ciência da Computação na Universidade Tecnológica Federal do Paraná (UTFPR), no câmpus Santa Helena, em conjunto com outro colega meu (João Mercês). O software consiste de um simulador de gerenciador de uma livraria online,
+contendo diferentes telas, baseando-se em se o usuário é cliente ou funcionário, dando diferentes permissões em ambos os casos. O software utiliza da linguagem de programação Java com o Paradigma de Orientação a Objetos (POO). Foi utilizado também do 
+padrão de projeto Model-View-Controller (MVC) para o desenvolvimento do software. Foi também utilizado do gerenciador de dependências Maven para fazer uso de dependências como o JPAModelgen, para mapeamento dos Value Objects, e o Hibernate, para conexão com o banco de dados.
+Para a persistência dos dados, foi utilizado do banco de dados MySQL por meio do MySQL Workbench.
